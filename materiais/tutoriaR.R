@@ -26,7 +26,7 @@ install.packages("dplyr")
 
 # criando o conjunto de dados chamado linguistas.total com todos os dados da planilha linguistas.csv
 
-linguistas.total = read.csv("linguistas.csv")
+linguistas.total = read.csv("linguistas.csv", encoding = "UTF-8")
 
 
 # Use a função head() para ver as linhas iniciais do conjunto de dados conjunto de dados

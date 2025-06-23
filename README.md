@@ -2,7 +2,7 @@
 
 Este é um tutoriaR de introdução ao ggplot2 (com um pouquinho de dplyr) que foi inicialmente pensado para um público alvo de linguistas, mas que pode ser feito por qualquer um.
 
-Se você notar algum erro ou inconsistência no material, por favor me avise: @mahagodoy no twitter ou mahayanag [] gmail.
+Se você notar algum erro ou inconsistência no material, por favor me avise: mahayanag [] gmail.
 
 
 ## Material
